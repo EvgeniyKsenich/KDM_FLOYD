@@ -1,0 +1,9 @@
+C:\Users\zzzzz\OneDrive\Документы\Visual Studio 2015\Projects\KDM_FLOYD\Deikstr\bin\Debug\Deikstr.exe.config
+C:\Users\zzzzz\OneDrive\Документы\Visual Studio 2015\Projects\KDM_FLOYD\Deikstr\bin\Debug\Deikstr.exe
+C:\Users\zzzzz\OneDrive\Документы\Visual Studio 2015\Projects\KDM_FLOYD\Deikstr\bin\Debug\Deikstr.pdb
+C:\Users\zzzzz\OneDrive\Документы\Visual Studio 2015\Projects\KDM_FLOYD\Deikstr\obj\Debug\Deikstr.csprojResolveAssemblyReference.cache
+C:\Users\zzzzz\OneDrive\Документы\Visual Studio 2015\Projects\KDM_FLOYD\Deikstr\obj\Debug\Deikstr.Form1.resources
+C:\Users\zzzzz\OneDrive\Документы\Visual Studio 2015\Projects\KDM_FLOYD\Deikstr\obj\Debug\Deikstr.Properties.Resources.resources
+C:\Users\zzzzz\OneDrive\Документы\Visual Studio 2015\Projects\KDM_FLOYD\Deikstr\obj\Debug\Deikstr.csproj.GenerateResource.Cache
+C:\Users\zzzzz\OneDrive\Документы\Visual Studio 2015\Projects\KDM_FLOYD\Deikstr\obj\Debug\Deikstr.exe
+C:\Users\zzzzz\OneDrive\Документы\Visual Studio 2015\Projects\KDM_FLOYD\Deikstr\obj\Debug\Deikstr.pdb

@@ -1,0 +1,9 @@
+C:\Users\zzzzz\OneDrive\Документы\Visual Studio 2015\Projects\KDM_FLOYD\KDM_FLOYD\bin\Debug\KDM_FLOYD.exe.config
+C:\Users\zzzzz\OneDrive\Документы\Visual Studio 2015\Projects\KDM_FLOYD\KDM_FLOYD\bin\Debug\KDM_FLOYD.exe
+C:\Users\zzzzz\OneDrive\Документы\Visual Studio 2015\Projects\KDM_FLOYD\KDM_FLOYD\bin\Debug\KDM_FLOYD.pdb
+C:\Users\zzzzz\OneDrive\Документы\Visual Studio 2015\Projects\KDM_FLOYD\KDM_FLOYD\obj\Debug\KDM_FLOYD.csprojResolveAssemblyReference.cache
+C:\Users\zzzzz\OneDrive\Документы\Visual Studio 2015\Projects\KDM_FLOYD\KDM_FLOYD\obj\Debug\KDM_FLOYD.Form1.resources
+C:\Users\zzzzz\OneDrive\Документы\Visual Studio 2015\Projects\KDM_FLOYD\KDM_FLOYD\obj\Debug\KDM_FLOYD.Properties.Resources.resources
+C:\Users\zzzzz\OneDrive\Документы\Visual Studio 2015\Projects\KDM_FLOYD\KDM_FLOYD\obj\Debug\KDM_FLOYD.csproj.GenerateResource.Cache
+C:\Users\zzzzz\OneDrive\Документы\Visual Studio 2015\Projects\KDM_FLOYD\KDM_FLOYD\obj\Debug\KDM_FLOYD.exe
+C:\Users\zzzzz\OneDrive\Документы\Visual Studio 2015\Projects\KDM_FLOYD\KDM_FLOYD\obj\Debug\KDM_FLOYD.pdb
